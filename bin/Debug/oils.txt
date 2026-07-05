@@ -1,0 +1,15 @@
+|20-50|0|
+Castrol Magnatec|10W-40|85|35.00
+Shell Helix Ultra|5W-40|110|55.00
+Liqui Moly Special Tec|5W-30|65|65.00
+Eni i-Sint|20W-50|40|25.00
+Mobil 1|5W-30|100|75.00
+Petromin|10W-30|150|30.00
+Total|10W-40|120|35.00
+MD|5W-30|200|25.00
+MD|10W-40|200|22.00
+Gulf|5W-30|90|45.00
+ZIC|10W-40|100|28.00
+Pennzoil|5W-20|70|65.00
+Motul|5W-40|60|85.0
+MD|20-50|10|30

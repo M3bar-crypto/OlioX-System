@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SavedUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mustafa</Value>
+    </Setting>
+    <Setting Name="SavedPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2004</Value>
+    </Setting>
+    <Setting Name="CurrentLoggedIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CenterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OlioX</Value>
+    </Setting>
+    <Setting Name="CenterPhone" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0920000000</Value>
+    </Setting>
+    <Setting Name="CenterAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Al Dahra</Value>
+    </Setting>
+    <Setting Name="IsDarkMode" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+Toyota Small Filter|Genuine|35|25.00
+Hyundai/Kia Filter|Genuine|50|20.00
+German Cars Filter|Genuine|8|60.00
+Bosch Oil Filter|Oil|40|18.00
+Mann Air Filter|Air|30|25.00
+Fram Air Filter|Air|45|20.00
+Wix Fuel Filter|Fuel|25|35.00
+Mahle Oil Filter|Oil|35|22.00
+K&N Air Filter|Air|20|45.00
+Hyundai Oil Filter|Oil|60|12.00
+Sakura Fuel Filter|Fuel|30|30.00
+Fleetguard Oil Filter|Oil|15|40.00

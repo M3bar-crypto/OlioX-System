@@ -1,0 +1,16 @@
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\bin\Debug\OlioX System.exe.config
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\bin\Debug\OlioX System.exe
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\bin\Debug\OlioX System.pdb
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\bin\Debug\OlioX System.xml
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.SplashForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.LogInForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.MainDashboard.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.SettingsForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.AddCustomerForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.InvoiceForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.InventoryForm.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\OlioX System.vbproj.GenerateResource.Cache
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\OlioX System.exe
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\OlioX System.xml
+C:\Users\الذكاء الاصطناعي\documents\visual studio 2010\Projects\OlioX System\OlioX System\obj\x86\Debug\OlioX System.pdb
